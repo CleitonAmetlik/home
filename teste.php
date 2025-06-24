@@ -1,1 +1,3 @@
-Teste novo arquivo
+<?php
+echo "Hello Word";
+?>
